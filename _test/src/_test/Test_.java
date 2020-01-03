@@ -6,6 +6,8 @@ package _test;
 */
 public class Test_ {
 	public static void main(String[] args) {
+		System.out.println("***********");
 		System.out.println("Hello 2020!");
+		System.out.println("***********");
 	}
 }	
